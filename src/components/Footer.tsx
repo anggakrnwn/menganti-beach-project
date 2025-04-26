@@ -32,7 +32,7 @@ const Footer = () => {
             <h3 className="text-lg font-bold mb-4">Kontak</h3>
             <ul className="space-y-2">
               <li className="text-gray-300">Desa Karangduwur, Kecamatan Ayah, Kabupaten Kebumen, Jawa Tengah</li>
-              <li className="text-gray-300">+62 812-3456-7890</li>
+              <li className="text-gray-300">+62abcdtes</li>
               <li className="text-gray-300">info@pantaimenganti.com</li>
             </ul>
           </div>
